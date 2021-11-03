@@ -14,8 +14,9 @@ In this project we will be trying to analyze a food sales dataset with over 6500
  
 ## Authors
 
+
+- [Richa Kumari](https://github.com/richa31kumari)
 - [Meera Hari](https://github.com/meera-hari)
-- [Richa Kumari]()
 
 
 ## Documentation
