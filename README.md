@@ -60,4 +60,5 @@ v) To solve any additional queries that the stakeholder may have, an AI generate
 7) Low Level Document - Food Sales Analysis LLD Report  
 8) Wireframe Document - Food Sales Analysis Wireframe Document  
 9) Architecture Design - Food Sales Analysis Architecture Design  
-10) Powerpoint Presentation - Food Sales Analysis ppt   
+10) Powerpoint Presentation - Food Sales Analysis ppt 
+11) Demo Video  
