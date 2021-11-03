@@ -53,7 +53,7 @@ v) To solve any additional queries that the stakeholder may have, an AI generate
 
 ## Files Attached in the repository
 1) Dataset -FOODSALESDATA.xls  
-2) Data cleaning using SQL - Food Sales Data- Cleaning  
+2) Data cleaning using SQL - Food Sales SQL File  
 3) Data Analysis using Power BI - Food Sales Analysis.pbix  
 4) Data Visualization using Power BI - Power BI Dashboard  
 5) Data Validation using SQL - Food Sales Data Validation SQL file
